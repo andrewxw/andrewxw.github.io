@@ -45,7 +45,7 @@ Check out some of my favorite pictures below.
 
 ### Life 
 
-(TODO)
+(TODO: pictures of life outside coding!)
 
 ### Contact Me 
 
