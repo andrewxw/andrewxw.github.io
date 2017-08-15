@@ -18,7 +18,7 @@ Traffic Calming Sensor (Sensing/DSP Team)
 
 ...
 
-(TODO:pictures and details later)
+(TODO: pictures and details; link maybe?)
 
 ### Experience
 
@@ -40,7 +40,7 @@ Check out some of my favorite pictures below.
 
 (TODO)
 
-### How to Contact Me 
+### Contact Me 
 
 Phone: 808-384-5132
 
