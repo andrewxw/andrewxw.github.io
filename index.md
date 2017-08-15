@@ -1,4 +1,3 @@
-
 ## What I Do
 
 I am passionate about teaching, application development, and engineering for social good. Here is a sample of my projects:
@@ -19,6 +18,14 @@ Traffic Calming Sensor (Sensing/DSP Team)
 ...
 
 (TODO: pictures and details; link maybe?)
+
+### Current Interests
+
+Application Development (Customer Experience)
+
+Web Programming
+
+Accurate Motion Sensing using Computer Vision algorithms 
 
 ### Experience
 
