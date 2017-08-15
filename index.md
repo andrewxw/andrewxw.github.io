@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## What I Do
 
-You can use the [editor on GitHub](https://github.com/andrewxw/andrewxw.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am passionate about teaching, application development, and engineering for social good. Here is a sample of my projects:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Experience
 
-### Markdown
+In addition to projects I have worked on, I have a variety of experiences in academia and teaching
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About Me
 
-```markdown
-Syntax highlighted code block
+My name is Andrew Wu. I am a Electrical and Computer Engineering graduate from Carnegie Mellon University. My current goal is to find a career that I am passionate about which draws from both my skills and interests. One day I hope to travel the world! Check out some of my favorite pictures below. 
 
-# Header 1
-## Header 2
-### Header 3
+### Life 
 
-- Bulleted
-- List
+### How to Contact Me 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andrewxw/andrewxw.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Phone: 808-384-5132
+Email: andrewxww@gmail.com
