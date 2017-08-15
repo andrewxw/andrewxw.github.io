@@ -1,24 +1,34 @@
+
 ## What I Do
 
 I am passionate about teaching, application development, and engineering for social good. Here is a sample of my projects:
 
 8 Bit Mastermind
+
 C0 Virtual Machine
+
 Dynamic Memory Allocator
+
 Telepresence Chess Robot
+
 Wireless Camera Charger 
-Traffic Calming Sensor (Sensing/DSP)
+
+Traffic Calming Sensor (Sensing/DSP Team)
+
 
 ...
+
 (TODO:pictures and details later)
 
 ### Experience
 
 In addition to projects I have worked on, I have a variety of experiences in academia and teaching
 
-[Dr. Takahashi Juku] (http://www.juku-in-hawaii.com/)
-[Excel Learning Center] (http://excellearningcenter.net/)
-[Mathnasium] (http://www.mathnasium.com/)
+[Dr. Takahashi Juku](http://www.juku-in-hawaii.com/)
+
+[Excel Learning Center](http://excellearningcenter.net/)
+
+[Mathnasium](http://www.mathnasium.com/)
 
 ### About Me
 
