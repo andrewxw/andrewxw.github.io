@@ -17,7 +17,7 @@ Traffic Calming Sensor (Sensing/DSP Team)
 
 ...
 
-(TODO: pictures and details; link maybe?)
+(TODO: pictures and details)
 
 ### Current Interests
 
@@ -25,11 +25,11 @@ Application Development (Customer Experience)
 
 Web Programming
 
-Accurate Motion Sensing using Computer Vision algorithms 
+Accurate Motion Sensing using Computer Vision Algorithms 
 
 ### Experience
 
-In addition to projects I have worked on, I have a variety of experiences in academia and teaching
+In addition to projects I have worked on, I have a variety of experiences in academia and teaching:
 
 [Dr. Takahashi Juku](http://www.juku-in-hawaii.com/)
 
